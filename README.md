@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📚 Software Engineering Student @ University of Plovdiv<br>📫 How to reach me: **tonyantonov@abv.bg**</p>
+<p align="left">📚 Software Engineering Student @ University of Plovdiv<br>📫 How to reach me: tonyantonov@abv.bg</p>
 
 ###
 
