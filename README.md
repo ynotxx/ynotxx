@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<img align="right" height="270" src="https://media1.tenor.com/m/NsP6q8PTwvsAAAAd/doctor-who-dancing.gif"  />
+<img align="right" height="250" src="https://media1.tenor.com/m/NsP6q8PTwvsAAAAd/doctor-who-dancing.gif"  />
 
 ###
 
