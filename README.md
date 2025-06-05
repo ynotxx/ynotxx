@@ -2,6 +2,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="180" src="https://media1.tenor.com/m/NsP6q8PTwvsAAAAd/doctor-who-dancing.gif"  />
+
+###
+
 <p align="left">📚 Software Engineering Student @ University of Plovdiv<br>📫 How to reach me: **tonyantonov@abv.bg**</p>
 
 ###
@@ -57,14 +63,8 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media1.tenor.com/m/NsP6q8PTwvsAAAAd/doctor-who-dancing.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ynotxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ynotxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ynotxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
